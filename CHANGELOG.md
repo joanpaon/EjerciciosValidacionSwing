@@ -1,5 +1,10 @@
 <pre>
 
+Version 0.1.3 - 05/09/2017
+==========================
+> Corrección de errores
+---
+
 Version 0.1.2 - 29/08/2017
 ==========================
 > Corrección de errores
